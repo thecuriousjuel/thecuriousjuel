@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @BiswajitBasak
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Neural Networks
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science
+- 🌱 I’m currently learning Statistics
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me ...
+- 📫 DM me on Linkedin-https://www.linkedin.com/in/biswajit-basak-30bba185
+- 👥 Social Media Handles - Instagram-TheCuriousJuel, Twitter-TheCuriousJuel, 
 
 <!---
 JuelBasak/JuelBasak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
