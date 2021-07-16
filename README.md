@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @BiswajitBasak
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science
-- 🌱 I’m currently learning Statistics
+- 👋 Hi, I’m Biswajit Basak
+- 👀 Computer Science Graduate
+- 💼 Ex-Project Engineer @ Wipro Technologies
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 DM me on Linkedin-https://www.linkedin.com/in/biswajit-basak-30bba185
-- 👥 Social Media Handles - Instagram-TheCuriousJuel, Twitter-TheCuriousJuel, 
+- 👥 YouTube Channel - https://www.youtube.com/channel/UCAUKyk9xwMmgDCSIkbbdpYQ 
 
 <!---
 JuelBasak/JuelBasak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
