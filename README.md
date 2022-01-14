@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biswajit Basak
 - 👀 Computer Science Graduate
-- 💼 Ex-Project Engineer @ Wipro Technologies
+- 💼 Data Analyst @ Deloitte
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 DM me on Linkedin-https://www.linkedin.com/in/biswajit-basak-30bba185
 - 👥 YouTube Channel - https://www.youtube.com/channel/UCAUKyk9xwMmgDCSIkbbdpYQ 
