@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Biswajit Basak
 - 👀 Computer Science Graduate
-- 💼 Analyst @ Deloitte
+- 💼 Data Engineer @ Deloitte
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 DM me on Linkedin-https://www.linkedin.com/in/thecuriousjuel
 - 👥 YouTube Channel - https://www.youtube.com/channel/UCAUKyk9xwMmgDCSIkbbdpYQ 
